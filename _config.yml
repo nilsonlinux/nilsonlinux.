@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Nilsonlinux
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/"
+  Material theme based on <a href="#">Sejam bem vindos</a> for Nilsonlinux
 url: "https://nilsonlinux.github.io"
 permalink: /:year/:month/:day/:title
 repository: Nilsonlinux/nilsonlinux
